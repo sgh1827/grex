@@ -1,3 +1,0 @@
-[submodule "src/flatland"]
-	path = src/flatland
-	url = ../flatland.git
